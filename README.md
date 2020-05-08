@@ -1,11 +1,11 @@
-# FYP
+
 ##Final Year Project - Automating Detection and Management of Malicious Email
 
-###Author and Contributor List
+### Author and Contributor List
 -------------
 Kevin O'Sullivan
 
-###About
+### About
 
 This program performs Automated Email header analysis, analyzing SPF, DMKIM and DMARC authentication results found in
 the header section of emails.
@@ -18,25 +18,25 @@ The program allows the user to analyze one email at a time or multiple emails fr
 The current version of the program is designed to work with Gmail emails only.
 
 
-###Installation instructions
+### Installation instructions
 -------------
 ```
 git clone https://github.com/KevinOSullivan20/FYP/
 ```
 
-####After cloning install the reqirements:
+#### After cloning install the reqirements:
 
 ```
 pip install -r requirements.txt
 ```
 
-###Running the program
+### Running the program
 
 ```
 python3 main.py
 ```
 
-===How to use the program
+### How to use the program
 
 _____ _____ _____ _____ _____ _____ ___ Analysing one email _____ _____ _____ _____ _____ _____ __
 
