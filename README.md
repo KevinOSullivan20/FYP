@@ -36,7 +36,8 @@ pip install -r requirements.txt
 python3 main.py
 ```
 
-###How to use the program
+===How to use the program
+
 _____ _____ _____ _____ _____ _____ ___ Analysing one email _____ _____ _____ _____ _____ _____ __
 
 
@@ -187,3 +188,10 @@ blacklisting functionality.
 
 Other functionality may include extracting the subject line from each email and also creating a method for extracting
 and analysing links contained in the body of the email.
+
+
+_____ _____ _____ _____ _____ _____ _ _ Acknowledgements _____ _____ _____ _____ _____ _____ __
+
+
+This program was developed for a final year project in Bsc in IT Management, Cork Institute of Technology, Cork, Ireland.
+The author would like to thank Byron Treacy and Tríona McSweeney for their guidance throughout the project.
