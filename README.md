@@ -1,5 +1,5 @@
 
-##Final Year Project - Automating Detection and Management of Malicious Email
+# Final Year Project - Automating Detection and Management of Malicious Email
 
 ### Author and Contributor List
 -------------
@@ -38,7 +38,7 @@ python3 main.py
 
 ### How to use the program
 
-_____ _____ _____ _____ _____ _____ ___ Analysing one email _____ _____ _____ _____ _____ _____ __
+#### _____ _____ _____ _____ _____ _____ ___ Analysing one email _____ _____ _____ _____ _____ _____ __
 
 
 To Analyse one email navigate from the Menu system selecting the options you would like.
@@ -47,7 +47,7 @@ Navigate to the location of the email file and select it.
 The analysis process will then be performed on the email.
 
 
-_____ _____ _____ _____ _____ _____ _ Analysing Multiple emails _____ _____ _____ _____ _____ _____
+#### _____ _____ _____ _____ _____ _____ _ Analysing Multiple emails _____ _____ _____ _____ _____ _____
 
 
 To Analyse multiple emails at once navigate from the Menu system selecting the options you would like.
@@ -56,7 +56,7 @@ Navigate to the folder containing the email files and select it.
 The analysis process will then be performed on the emails in the folder.
 
 
-_____ _____ _____ _____ _____ _____ _ __ _ Analysis Process _____ _____ _____ _____ _____ _____ ____
+#### _____ _____ _____ _____ _____ _____ _ __ _ Analysis Process _____ _____ _____ _____ _____ _____ ____
 
 
 The Analysis process will perform the following checks on the email(s) selected:
@@ -80,7 +80,7 @@ Multiple SPF, DKIM or DMARC checks may be performed on an email on its travels.
 The analysis process will look at each one of the instances of each of the checks.
 
 
-_____ _____ _____ _____ _____ _____ _ _ Risk Assessment Process _____ _____ _____ _____ _____ _____ __
+#### _____ _____ _____ _____ _____ _____ _ _ Risk Assessment Process _____ _____ _____ _____ _____ _____ __
 
 
 The risk assessment process will try to give an estimated level of risk based on the checks performed on the email.
@@ -152,7 +152,7 @@ Risk of Malware-less Phishing or Spear Phishing attempt - VERY HIGH
 The risk assessment process is intended to be used as a guide to help highlight emails that may be a risk.
 
 
-_____ _____ _____ _____ _____ _____ _ IP Blacklisting Option _____ _____ _____ _____ _____ _____
+#### _____ _____ _____ _____ _____ _____ _ IP Blacklisting Option _____ _____ _____ _____ _____ _____
 
 The program includes an option to blacklist the Associated Client IP addresses of the emails flagged as high risk during
 the analysis process.
@@ -178,7 +178,7 @@ Receiving_Address varchar(140)
 Time_Received varchar(140)
 
 
-_____ _____ _____ _____ _____ _____ _ Future Developments _____ _____ _____ _____ _____ _____
+#### _____ _____ _____ _____ _____ _____ _ Future Developments _____ _____ _____ _____ _____ _____
 
 
 Future versions of the program aim to include support for other email services.
@@ -190,7 +190,7 @@ Other functionality may include extracting the subject line from each email and 
 and analysing links contained in the body of the email.
 
 
-_____ _____ _____ _____ _____ _____ _ _ Acknowledgements _____ _____ _____ _____ _____ _____ __
+#### _____ _____ _____ _____ _____ _____ _ _ Acknowledgements _____ _____ _____ _____ _____ _____ __
 
 
 This program was developed for a final year project in Bsc in IT Management, Cork Institute of Technology, Cork, Ireland.
