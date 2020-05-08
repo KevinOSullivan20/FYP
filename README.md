@@ -39,6 +39,7 @@ python3 main.py
 ###How to use the program
 _____ _____ _____ _____ _____ _____ ___ Analysing one email _____ _____ _____ _____ _____ _____ __
 
+
 To Analyse one email navigate from the Menu system selecting the options you would like.
 You will be prompted to select a file.
 Navigate to the location of the email file and select it.
@@ -47,6 +48,7 @@ The analysis process will then be performed on the email.
 
 _____ _____ _____ _____ _____ _____ _ Analysing Multiple emails _____ _____ _____ _____ _____ _____
 
+
 To Analyse multiple emails at once navigate from the Menu system selecting the options you would like.
 You will be prompted to select a Folder.
 Navigate to the folder containing the email files and select it.
@@ -54,6 +56,7 @@ The analysis process will then be performed on the emails in the folder.
 
 
 _____ _____ _____ _____ _____ _____ _ __ _ Analysis Process _____ _____ _____ _____ _____ _____ ____
+
 
 The Analysis process will perform the following checks on the email(s) selected:
 
@@ -77,6 +80,7 @@ The analysis process will look at each one of the instances of each of the check
 
 
 _____ _____ _____ _____ _____ _____ _ _ Risk Assessment Process _____ _____ _____ _____ _____ _____ __
+
 
 The risk assessment process will try to give an estimated level of risk based on the checks performed on the email.
 The process will try to determine the likelihood of the email containing Malware as well as if the email may pose a
@@ -174,6 +178,7 @@ Time_Received varchar(140)
 
 
 _____ _____ _____ _____ _____ _____ _ Future Developments _____ _____ _____ _____ _____ _____
+
 
 Future versions of the program aim to include support for other email services.
 
